@@ -2,3 +2,4 @@ This is a new file.
 Hello, world.
 Hello, there.
 Hello, Doe.
+Hello, Jane.
